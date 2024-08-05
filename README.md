@@ -25,3 +25,13 @@ Dependencias:
 script para subir rodar a aplicação: npm run dev
 
 script para rodar os testes unitários: npm run test
+
+Paths:
+
+    /task (get, post, delete) - para criação, visualização e exclusão de tasks
+    
+    /register (post) - para registro de novo usuário
+    
+    /login (post) - para login de usuário
+    
+    /docs - para visualização da documentação swagger

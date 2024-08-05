@@ -1,5 +1,4 @@
-Projeto feito em node v22.1.0
-Rodando na porta 3000 do localhost
+Projeto feito em node v22.1.0 rodando na porta 3000 do localhost
 
 Dependencias:
 

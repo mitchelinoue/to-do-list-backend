@@ -14,4 +14,5 @@ Dependencias:
     "supertest": "^7.0.0"
     
 script para subir rodar a aplicação: npm run dev
+
 script para rodar os testes unitários: npm run test
